@@ -1,3 +1,28 @@
+/*
+    Program: Addition of Two Complex Numbers
+    Author: Arindam Ghosh
+    
+    This program adds two complex numbers represented by their real and imaginary parts.
+    
+    In mathematics, a complex number is expressed in the form a + bi, where:
+    - 'a' is the real part
+    - 'b' is the imaginary part (multiplied by the imaginary unit 'i')
+
+    In this program:
+    - The user will be prompted to enter the real and imaginary parts of two complex numbers.
+    - The program will then calculate the sum of the two complex numbers by adding their respective real and imaginary parts.
+    - Finally, it will display the resulting complex number in the format: 
+      "The sum of the two complex numbers is: realSum + imagSum i".
+
+    Example:
+    If the user inputs:
+    - First complex number: 3 (real) and 4 (imaginary)
+    - Second complex number: 1 (real) and 2 (imaginary)
+    
+    The output will be:
+    The sum of the two complex numbers is: 4.00 + 6.00i
+*/
+
 #include <stdio.h>
 
 int main() {
