@@ -1,6 +1,6 @@
 /*
     Program: Read and Print an Integer Value
-    Author: [Your Name]
+    Author: Arindam Ghosh
     
     This program prompts the user to input an integer, reads the input, 
     and then displays the entered integer on the screen. It demonstrates 
