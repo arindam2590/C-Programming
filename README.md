@@ -38,3 +38,23 @@ Clone this repository using Git:
 
 ```bash
 git clone https://github.com/yourusername/c-programming.git
+```
+Navigate to the repository directory:
+
+```bash
+cd c-programming
+```
+
+## Usage
+Each subdirectory or C file in this repository is a standalone program. To compile and run a program, use the following commands:
+
+```bash
+gcc -o output filename.c
+./output
+```
+
+For example, to compile and run the hello.c program:
+```bash
+gcc -o hello hello.c
+./hello
+```
