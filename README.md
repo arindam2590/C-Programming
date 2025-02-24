@@ -46,15 +46,15 @@ cd c-programming
 ```
 
 ## Usage
-Each subdirectory or C file in this repository is a standalone program. To compile and run a program, use the following commands:
+Each subdirectory or C file in this repository is a standalone program. To compile and run a program, use the following commands (for linux terminal):
 
 ```bash
-gcc -o output filename.c
-./output
+gcc filename.c
+./a.out
 ```
 
 For example, to compile and run the hello.c program:
 ```bash
-gcc -o hello hello.c
-./hello
+gcc hello.c
+./a.out
 ```
