@@ -1,6 +1,6 @@
 /*
     Program: Print Inverted Full Pyramid Pattern Using Numbers
-    Author: [Your Name]
+    Author: Arindam Ghosh
 
     Description:
     This program prints an inverted full pyramid pattern using numbers instead of asterisks (`*`).
