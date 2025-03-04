@@ -1,6 +1,6 @@
 /*
     Program: Print Diamond Pattern Using Alphabets
-    Author: [Your Name]
+    Author: Arindam Ghosh
 
     Description:
     This program prints a diamond pattern using alphabets instead of asterisks (`*`).
