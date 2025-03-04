@@ -1,6 +1,6 @@
 /*
     Program: Print Diamond Pattern
-    Author: [Your Name]
+    Author: Arindam Ghosh
 
     Description:
     This program prints a diamond pattern using asterisks (`*`), with spaces for alignment.
