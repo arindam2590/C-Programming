@@ -1,6 +1,6 @@
 /*
     Program: Print Full Pyramid Pattern Using Alphabets
-    Author: [Your Name]
+    Author: Arindam Ghosh
 
     Description:
     This program prints a full pyramid pattern using alphabets instead of asterisks (`*`).
